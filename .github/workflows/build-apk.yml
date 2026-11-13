@@ -1,4 +1,4 @@
-Name: Convert PWA to Release AAB (Birr Go)
+name: Convert PWA to Release AAB (Birr Go)
 
 on:
   push:
